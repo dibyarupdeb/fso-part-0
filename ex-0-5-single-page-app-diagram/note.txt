@@ -1,0 +1,1 @@
+The sequence diagram in this exercise is similar to the tutorial example based on the loading of the '/notes' page.
